@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="images/thesis-infographic.png" width="900"/>
+</p>
+
+
 🎓 Phishing Susceptibility & Human Risk in Healthcare
 
 Master’s Thesis | UNC Charlotte (2026)
